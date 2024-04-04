@@ -1,0 +1,141 @@
+.assignment-tab-wrap {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 0px 0 50px;
+}
+
+.assignment-tab-wrap .nav {
+  justify-content: center;
+  margin-bottom: 50px;
+  border-bottom: 2px solid #6541fa;
+  padding: 17px 10px;
+}
+
+.assignment-tab-wrap .nav-link {
+  background: none;
+  border-radius: unset;
+  border: none;
+  margin-right: 24px;
+  padding: 0;
+  line-height: 1;
+  font-family: "Nunito", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #1a064e;
+}
+
+.assignment-nav-wrap .nav {
+  background: #6440fa;
+  border-bottom: none;
+  padding: 17px 30px;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.assignment-nav-wrap .nav-link {
+  background: none;
+  border-radius: unset;
+  border: none;
+  margin-right: 24px;
+  padding: 0;
+  line-height: 1;
+  font-family: "Nunito", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.assignment-nav-wrap .nav-item {
+  display: inline-block;
+}
+/*
+.assignment-form-wrap form {
+  padding: 0 30px;
+}
+
+.assignment-form-wrap form input,
+.assignment-form-wrap form textarea,
+.assignment-form-wrap form .input-file-upload {
+  width: 100%;
+  background: #f3f7fa;
+  border: 1px solid rgba(26, 6, 78, 0.07);
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding: 13px 30px;
+  margin-bottom: 20px;
+}
+
+.assignment-form-wrap form input::placeholder,
+.assignment-form-wrap form textarea::placeholder,
+.assignment-form-wrap form .input-file-upload::placeholder {
+  font-weight: 400;
+  font-size: 14px;
+  color: #777777;
+}
+
+.assignment-form-wrap form .input-file-upload {
+  z-index: 1;
+  cursor: pointer;
+  padding: 9px 30px;
+}
+
+.assignment-form-wrap form .input-file-upload img,
+.assignment-form-wrap form .input-file-upload span {
+  position: absolute;
+  right: 25px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  z-index: -1;
+}
+
+.assignment-form-wrap form input[type="file" i] {
+  position: relative;
+  filter: alpha(opacity=0);
+  outline: none;
+  cursor: inherit;
+  color: transparent;
+  opacity: 0;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+.assignment-btn-wrap button {
+  border: none;
+  background: #6440fa;
+  border-radius: 5px;
+  width: 100%;
+  font-weight: 700;
+  font-size: 18px;
+  text-transform: capitalize;
+  color: #ffffff;
+  padding: 11px 35px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: calc(var(--bs-gutter-y) * -1);
+  margin-right: calc(var(--bs-gutter-x) / -2);
+  margin-left: calc(var(--bs-gutter-x) / -2);
+  row-gap: 5px;
+  column-gap: 10px;
+}
+
+.col-xl-6 {
+  flex: 0 0 auto;
+  width: 48%;
+ 
+}
+
+.col-xl-10 {
+  flex: 0 0 auto;
+  width: 83.3333333333%;
+}
+.text-center {
+  text-align: center;
+}
+.react-datepicker-wrapper {
+  width: 100%;
+} */
